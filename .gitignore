@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# OS-specific
+.DS_Store
+
+# Jupyter checkpoints (if added later)
+.ipynb_checkpoints/
